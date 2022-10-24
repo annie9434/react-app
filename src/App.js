@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
+// 첫 푸시 테스트 - 민재
 function Article(props){
   return <article>
     <h2>{props.title}</h2>
